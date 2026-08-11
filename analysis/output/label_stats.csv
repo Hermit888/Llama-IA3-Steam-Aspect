@@ -1,0 +1,9 @@
+label,train_count,train_freq,test_count,test_freq
+recommended,667,0.7411,148,0.7400
+story,400,0.4444,89,0.4450
+gameplay,693,0.7700,154,0.7700
+visual,391,0.4344,87,0.4350
+audio,227,0.2522,51,0.2550
+technical,259,0.2878,57,0.2850
+price,213,0.2367,47,0.2350
+suggestion,97,0.1078,21,0.1050
